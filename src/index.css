@@ -1,0 +1,37 @@
+.container {
+    margin:auto;
+    width:300px;
+    height:200px;
+    border: 1px solid black;
+    position:relative;
+}
+.heart {
+    position:absolute;
+    top:50px;
+    left:40px;
+}
+.earth {
+    position:absolute;
+    right:50px;
+    top:50px;
+}
+.highboi {
+    position:absolute;
+    top:5px;
+    left:130px;
+    
+}
+.beast {
+    position:absolute;
+    bottom:50px;
+    left:70px;
+    width:30px;
+    height:20px;
+}
+.star {
+    position:absolute;
+    bottom:55px;
+    right:70px;
+    width:30px;
+    height:20px;
+}
