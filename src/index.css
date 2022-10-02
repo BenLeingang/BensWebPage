@@ -1,37 +1,139 @@
-.container {
+body {
+    background-image: url("https://wallpaperaccess.com/full/1711593.gif");
+}
+#by {
+    text-align: center;
+}
+#c1 {
     margin:auto;
-    width:300px;
-    height:200px;
-    border: 1px solid black;
+    width:1200px;
+    height:120px;
+    background-color: rgb(226, 168, 223);
+    border:inset 8px;
+    border-radius: 25px;
+    border-color: rgb(196, 148, 194);
     position:relative;
 }
-.heart {
+.heading {
     position:absolute;
-    top:50px;
-    left:40px;
+    top:-2px;
+    left:480px;
 }
-.earth {
+.kitty {
     position:absolute;
-    right:50px;
-    top:50px;
+    top:69px;
+    left:450px;
 }
-.highboi {
-    position:absolute;
-    top:5px;
-    left:130px;
-    
+#c2 {
+    margin:auto;
+    width:1300px;
+    height:700px;
+    background-color: rgb(123, 123, 123, .6);
+    border-radius: 25px;
+    position: relative;
 }
-.beast {
+#fc1 {
     position:absolute;
-    bottom:50px;
-    left:70px;
-    width:30px;
-    height:20px;
+    top:15px;
+    left:15px;
+    height:670px;
+    width:140px;
+    background-color: rgb(226, 168, 223);
+    border-radius: 25px;
 }
-.star {
+#fc2 {
     position:absolute;
-    bottom:55px;
-    right:70px;
-    width:30px;
-    height:20px;
+    top:15px;
+    right:15px;
+    height:670px;
+    width:140px;
+    background-color: rgb(226, 168, 223);
+    border-radius: 25px;
+}
+#fc3 {
+    position:absolute;
+    top:15px;
+    left:170px;
+    height:670px;
+    width:960px;
+    background-color: rgb(255, 255, 255, 0.65);
+    border-radius: 25px;
+}
+#benhead {
+    position:absolute;
+    top: 5px;
+    left: 5px;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+#benperd {
+    position:absolute;
+    top: 60px;
+    left: 25px;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+#benperd2 {
+    position:absolute;
+    top: 350px;
+    left: 25px;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+#sha256 {
+    position:absolute;
+    top: 75px;
+    left: 25px;
+}
+#sha256:hover {
+    transform: scale(1.19);
+}
+#hopf {
+    position:absolute;
+    top: 125px;
+    left: 25px;
+}
+#hopf:hover {
+    transform: scale(1.19);
+}
+#insta {
+    position:absolute;
+    bottom: 5px;
+    left: 5px;
+    background-color: rgb(226, 168, 223, 0.0);
+    border-color: rgb(226, 168, 223, 0.0);
+}
+#ilink {
+    position:absolute;
+    bottom: 5px;
+    left: 35px;
+    background-color: rgb(226, 168, 223, 0.0);
+    border-color: rgb(226, 168, 223, 0.0);
+}
+#bu1 {
+    position:absolute;
+    top: 5px;
+    left: -2.25px;
+    background-color: rgb(226, 168, 223, 0.0);
+    border-color: rgb(226, 168, 223, 0.0);
+}
+#bu1:hover {
+    transform: scale(1.19);
+}
+#bu2 {
+    position:absolute;
+    top: 60px;
+    left: -2.25px;
+    background-color: rgb(226, 168, 223, 0.0);
+    border-color: rgb(226, 168, 223, 0.0);
+}
+#bu2:hover {
+    transform: scale(1.19);
+}
+#bu3 {
+    position:absolute;
+    top: 115px;
+    left: -2.25px;
+    background-color: rgb(226, 168, 223, 0.0);
+    border-color: rgb(226, 168, 223, 0.0);
+}
+#bu3:hover {
+    transform: scale(1.19);
 }
